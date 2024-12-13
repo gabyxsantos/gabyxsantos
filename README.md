@@ -1,17 +1,29 @@
-# 👋 Hi! I'm Gaby!
+# 👋 Hi, I'm Gaby!
 
-📊🎲 Student of Data Science 
+📊🎲 **Aspiring Data Scientist | AI Enthusiast | Social Data Explorer**
 
 ---
 
 ## 👩‍💻 About Me
-I am currently studying Data Science at the Federal University of Minas Gerais, seeking to improve myself in the various uses of artificial intelligence, mainly focused on analyzing data on social networks. Furthermore, I am participating in a music study group, in which we are analyzing statistical data on the most diverse types of music.
+I’m a Data Science student at the Federal University of Minas Gerais, passionate about uncovering insights from data and exploring the power of artificial intelligence. My current focus is on analyzing data from social networks to better understand trends and behaviors.  
+
+🎵 In addition, I participate in a **music study group**, where we dive into statistical analysis of various musical genres, blending my love for data and the arts.
 
 ---
+
 ## 🛠️ Technical Skills
-- **Languages**: Python, C, C++
-- **Version Control Tools**: Git & GitHub
-- **Another Skills**: Jupyter Notebook, VS Code
+- **Programming Languages**: Python, C, C++
+- **Tools**: Jupyter Notebook, VS Code, Git, GitHub
+- **Focus Areas**: Data Visualization, Machine Learning, Social Media Analytics
+
 ---
-## 📷 Curiosities
-Photography is one of my greatest passions, I even serve my local church in the media area, even working with social networks, in the production of the most diverse content, such as videos, interviews and forographies of weekly meetings. Furthermore, I study a lot about the algorithms that run Instagram, analyzing the data obtained with each promotion and predicting how to obtain better results.
+
+## 📷 Fun Facts
+📸 **Photography Buff**: I love capturing moments and serve in my local church's media team. I work on creating engaging content for social media, including photos, videos, and interviews for weekly events.  
+
+💡 **Social Media Algorithms Enthusiast**: I study Instagram’s algorithms, analyzing data from promotions to predict trends and improve engagement strategies.
+
+---
+
+## 🌟 Let’s Connect!
+Feel free to explore my projects and connect with me here on GitHub or reach out via email: **gabyxsantosufmg@gmail.com** . Let’s innovate together!
