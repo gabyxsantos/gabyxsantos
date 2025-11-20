@@ -1,29 +1,60 @@
 # 👋 Hi, I'm Gaby!
 
-📊🎲 **Aspiring Data Scientist | AI Enthusiast | Social Data Explorer**
+📊 **Data Science Student & Researcher | Exploring Cross-Domain Recommendations**
 
 ---
 
 ## 👩‍💻 About Me
-I’m a Data Science student at the Federal University of Minas Gerais, passionate about uncovering insights from data and exploring the power of artificial intelligence. My current focus is on analyzing data from social networks to better understand trends and behaviors.  
 
-🎵 In addition, I participate in a **music study group**, where we dive into statistical analysis of various musical genres, blending my love for data and the arts.
+I’m a Data Science undergraduate student at the Federal University of Minas Gerais (UFMG), deeply interested in how we can uncover hidden connections within large-scale datasets.
+
+Currently, I am conducting **Scientific Research** focused on **Cross-Domain Recommendation Systems**. My work involves analyzing massive datasets (like Amazon Reviews 2023) to find similarity patterns between different media domains—such as books, movies, and music—using user behavior data, even in sparse data scenarios.
+
+I am passionate about the entire data pipeline: from handling big data with terminal tools to statistical modeling and visualization.
+
+---
+
+## 🔬 Current Research: Similarity Bridges
+
+**Project:** *Finding Similarity Bridges: A Cross-Domain Analysis of Sparse User Data*
+
+In my current research, I am tackling the challenge of data sparsity in recommendation systems.
+- **Objective:** To quantify item affinity across different domains (Books, Movies, Music) using user ratings.
+- **Methodology:** I developed a hybrid processing pipeline (Terminal + Python) to handle +6GB files, applied k-core filtering to reduce sparsity, and implemented a **Cosine Similarity** model based on explicit ratings to serve as a ground truth for future machine learning models.
+- **Tools Used:** Python (Pandas, Scipy, Scikit-learn), Bash (awk, jq), Matplotlib/Seaborn.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, C, C++
-- **Tools**: Jupyter Notebook, VS Code, Git, GitHub
-- **Focus Areas**: Data Visualization, Machine Learning, Social Media Analytics
+
+### 💻 Programming & Tools
+- **Languages:** Python, R, C, C++
+- **Data Analysis & Stats:** Pandas, NumPy, Scipy, Tidyverse (R)
+- **Machine Learning:** Scikit-learn
+- **Visualization:** Matplotlib, Seaborn, ggplot2
+- **Big Data / Processing:** Bash Scripting (awk, grep, jq), Parquet
+- **Environments:** Jupyter Notebook, RStudio (Posit), VS Code, Linux Terminal
+- **Version Control:** Git, GitHub
+
+### 📚 Focus Areas
+- Recommender Systems & Collaborative Filtering
+- Cross-Domain Analysis
+- Statistical Modeling
+- Exploratory Data Analysis (EDA)
 
 ---
 
-## 📷 Fun Facts
-📸 **Photography Buff**: I love capturing moments and serve in my local church's media team. I work on creating engaging content for social media, including photos, videos, and interviews for weekly events.  
+## 📷 Beyond the Data
 
-💡 **Social Media Algorithms Enthusiast**: I study Instagram’s algorithms, analyzing data from promotions to predict trends and improve engagement strategies.
-
+When I'm not coding or analyzing matrices:
+- **Photography:** I have a keen eye for photography and volunteer with my local church's media team, creating visual content and capturing moments.
 ---
 
 ## 🌟 Let’s Connect!
-Feel free to explore my projects and connect with me here on GitHub or reach out via email: **gabyxsantosufmg@gmail.com** . Let’s innovate together!
+
+I’m always open to discussing data science, recommendation algorithms, or research opportunities.
+
+- 📫 **Email:** gabyxsantosufmg@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gabrielly-santos-18ba86343/
+
+---
