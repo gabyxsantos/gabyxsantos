@@ -28,11 +28,11 @@ In my current research, I am tackling the challenge of data sparsity in recommen
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Tools
-- **Languages:** Python, R, C, C++
+- **Languages:** Python, R, SQL, C, C++
 - **Data Analysis & Stats:** Pandas, NumPy, Scipy, Tidyverse (R)
 - **Machine Learning:** Scikit-learn
 - **Visualization:** Matplotlib, Seaborn, ggplot2
-- **Big Data / Processing:** Bash Scripting (awk, grep, jq), Parquet
+- **Data Engineering & Big Data:** DuckDB, Dask, Apache Parquet, Bash (awk, grep, jq)
 - **Environments:** Jupyter Notebook, RStudio (Posit), VS Code, Linux Terminal
 - **Version Control:** Git, GitHub
 
